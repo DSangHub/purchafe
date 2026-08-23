@@ -1,0 +1,9 @@
+{
+  "name": "purchafe",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Purchafe Safe point-of-purchase ownership verification",
+  "dependencies": {
+    "@neondatabase/serverless": "^0.10.4"
+  }
+}
